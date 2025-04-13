@@ -1,0 +1,56 @@
+{
+  "workoutPlan": {
+    "Monday": [
+      "Foam Rolling: 10 minutes",
+      "Static Stretching: 5 minutes",
+      "Barbell Squats: 3 sets x 12 reps",
+      "Dumbbell Bench Press: 3 sets x 12 reps",
+      "Lat Pulldowns: 3 sets x 12 reps",
+      "Plank: 3 sets x 30 seconds"
+    ],
+    "Tuesday": [
+      "Self-Myofascial Release (SMR): 10 minutes",
+      "Dynamic Stretching: 5 minutes",
+      "Deadlifts: 3 sets x 10 reps",
+      "Shoulder Press: 3 sets x 12 reps",
+      "Seated Cable Rows: 3 sets x 12 reps",
+      "Russian Twists: 3 sets x 15 reps"
+    ],
+    "Wednesday": [
+      "Rest or Active Recovery: Yoga or Walking for 30 minutes"
+    ],
+    "Thursday": [
+      "Foam Rolling: 10 minutes",
+      "Static Stretching: 5 minutes",
+      "Lunges: 3 sets x 12 reps per leg",
+      "Dumbbell Shoulder Lateral Raises: 3 sets x 12 reps",
+      "Face Pulls: 3 sets x 15 reps",
+      "Side Plank: 3 sets x 30 seconds per side"
+    ],
+    "Friday": [
+      "Self-Myofascial Release (SMR): 10 minutes",
+      "Dynamic Stretching: 5 minutes",
+      "Bent Over Rows: 3 sets x 12 reps",
+      "Leg Press: 3 sets x 12 reps",
+      "Bicep Curls: 3 sets x 12 reps",
+      "Tricep Dips: 3 sets x 12 reps"
+    ],
+    "Saturday": [
+      "Cardiovascular Training: 30 minutes of Treadmill Running or Cycling"
+    ],
+    "Sunday": [
+      "Rest and Recovery"
+    ]
+  },
+  "userData": {
+    "name": "Cheng Hongliang",
+    "age": "30",
+    "gender": "M",
+    "height": "170",
+    "weight": "70",
+    "occupation": "University Student",
+    "experience_level": "Beginner"
+  },
+  "additionalInfo": "--- Imported Chat History ---\n\nYou: I have thoracic discomfort. Can you give me some training advice? What should I pay attention to during training?\n\nAssistant: - Consider incorporating assessment techniques like static postural evaluations and dynamic movement assessments to detect compensatory movements and asymmetries that may contribute to musculoskeletal issues\n- Focus on correcting exercise strategies for the cervical spine, following the four sequential phases of suppression, lengthening, activation, and integration\n- Pay attention to reducing overactivity in key muscles, utilizing techniques like foam rolling and self-myofascial release\n- Collect personal background information such as occupation and lifestyle habits to tailor training programs accordingly\n- Ensure safety, individualization, and the application of research-backed testing procedures in your training regimen. \n\nSource PDF:\n\n**files\\NASM-CES.pdf**\n**files\\NSCA-CPT.pdf**",
+  "trainingEnvironment": "gym"
+}

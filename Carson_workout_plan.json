@@ -1,0 +1,42 @@
+{
+  "workoutPlan": {
+    "Monday": [
+      "Barbell Squats: 4 sets x 8 reps",
+      "Bench Press: 3 sets x 10 reps",
+      "Lat Pulldowns: 3 sets x 12 reps"
+    ],
+    "Tuesday": [
+      "Cardiovascular Training: 30 minutes"
+    ],
+    "Wednesday": [
+      "Deadlifts: 4 sets x 6 reps",
+      "Shoulder Press: 3 sets x 10 reps",
+      "Leg Press: 3 sets x 12 reps"
+    ],
+    "Thursday": [
+      "Rest day or light stretching"
+    ],
+    "Friday": [
+      "Dumbbell Lunges: 3 sets x 12 reps per leg",
+      "Bent Over Rows: 3 sets x 10 reps",
+      "Tricep Dips: 3 sets x 12 reps"
+    ],
+    "Saturday": [
+      "HIIT Training: 20 minutes"
+    ],
+    "Sunday": [
+      "Rest day or light stretching"
+    ]
+  },
+  "userData": {
+    "name": "Carson",
+    "age": "20",
+    "gender": "M",
+    "height": "170",
+    "weight": "70",
+    "occupation": "University Student",
+    "experience_level": "Intermediate"
+  },
+  "additionalInfo": "",
+  "trainingEnvironment": "gym"
+}

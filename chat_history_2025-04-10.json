@@ -1,0 +1,22 @@
+{
+  "sessionId": "",
+  "messages": [
+    {
+      "role": "user",
+      "message": "For the pelvis and thorax that appear to be rotating, please give me some advice on rehabilitation."
+    },
+    {
+      "role": "assistant",
+      "message": "\n- Systematically address muscle imbalances and movement inefficiencies\n- Design individualized corrective training strategies to restore proper pelvic and thoracic function\n- Utilize exercises that focus on inhibition (such as foam rolling), lengthening (static stretching), activation (isolated strengthening), and integration (dynamic multi-joint exercises)\n- Incorporate PNF techniques and compound movements for functional stability\n- Focus on restoring proper movement patterns and functional stability to the affected areas \n\nSource PDF:\n\n**files\\NASM-CES.pdf**"
+    },
+    {
+      "role": "user",
+      "message": "What is PNF techniques? How I can combine it with my daily exercise?"
+    },
+    {
+      "role": "assistant",
+      "message": "- PNF stretching, also known as neuromuscular stretching, involves actively contracting the target muscle before passively stretching it for enhanced flexibility.\n- To combine PNF techniques with your daily exercise routine, you can follow these steps:\n  - Actively contract the muscle you want to stretch for 7–15 seconds.\n  - Then, passively stretch the muscle for 20–30 seconds.\n  - Repeat this process one to three times for each muscle group.\n  - Make sure to tailor the hold times and intensity based on your individual needs and response to the stretching. \n\nSource PDF:\n\n**files\\NASM-CES.pdf**\n**files\\NSCA-CPT.pdf**"
+    }
+  ],
+  "exportDate": "2025-04-07T06:02:24.608Z"
+}
